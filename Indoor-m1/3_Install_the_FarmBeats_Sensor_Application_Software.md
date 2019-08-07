@@ -80,4 +80,6 @@ Software Installation Complete
 You have successfully installed your Windows 10 IoT Core sensor device and
 software
 
-Now proceed to [Step 4 – Register your FarmBeats Student Kit with Microsoft Azure's IoT service](https://github.com/richstep/studentkit/blob/master/Indoor-m1/2_Register_your_FarmBeats_Student_Kit_User_and_Device.md)
+Now proceed to [Step 4 – Register your FarmBeats Student Kit with Microsoft Azure's IoT service](https://github.com/richstep/studentkit/blob/master/Indoor-m1/4_Register_your_FarmBeats_Student_Kit_User_and_Device.md)
+
+[--return to starting page--](https://github.com/richstep/studentkit/blob/master/Indoor-m1/readme.md)

@@ -37,3 +37,6 @@ Configure the Azure IoT Central Dashboard
 Cover the light sensor and click the commands, Sensor Update
 
 Properties, update the location
+
+
+[--return to starting page--](https://github.com/richstep/studentkit/blob/master/Indoor-m1/readme.md)
