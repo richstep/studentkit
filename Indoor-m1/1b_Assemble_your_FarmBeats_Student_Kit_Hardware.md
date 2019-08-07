@@ -57,5 +57,4 @@ Next Steps
 ----------
 
 You have now assembled your FarmBeats Student Kit. You can now proceed to [Step
-1c – Identify your unique Device
-ID](https://github.com/richstep/studentkit/blob/master/Indoor-m1/1c_Identify_your_unique_Device_ID.md)
+2 – Connect the Rasberry Pi to the Internet and Obtain its Unique Device ID.](https://github.com/richstep/studentkit/blob/master/Indoor-m1/1c_Identify_your_unique_Device_ID.md)

@@ -93,6 +93,4 @@ us](mailto:support@farmbeatslabs.com) *to arrange.*
 
 -   You have now completed the User and Device registration and the Azure IoT
     Central application has been created and your device has been added to your
-    cloud application. You can now proceed to [Step 3 – Configure your Azure IoT
-    Cloud
-    Service](https://github.com/richstep/studentkit/blob/master/Indoor-m1/3_Configure_your_Azure_IoT_Central_Cloud_Service.md)
+    cloud application. You can now proceed to [Step 5 – Configure your website located on Microsoft Azure's IoT service.](https://github.com/richstep/studentkit/blob/master/Indoor-m1/3_Configure_your_Azure_IoT_Central_Cloud_Service.md)

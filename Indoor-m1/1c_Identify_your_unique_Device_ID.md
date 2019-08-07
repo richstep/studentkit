@@ -96,5 +96,5 @@ Questions if you are having issues getting your device online.*
 Next Steps
 ----------
 
-Next steps are to [install the FarmBeats Sensor Application Software](https://github.com/richstep/studentkit/blob/master/Indoor-m1/1d_Install_the_FarmBeats_Sensor_Application_Software.md) onto the
+You can now proceed to [step 3 - install the FarmBeats Sensor Application Software](https://github.com/richstep/studentkit/blob/master/Indoor-m1/1d_Install_the_FarmBeats_Sensor_Application_Software.md) onto the
 Raspberry Pi.
