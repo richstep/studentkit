@@ -1,4 +1,4 @@
-Assemble your FarmBeats Student Kit Hardware
+Assemble and Test the Raspberry Pi Device
 ============================================
 
 The FarmBeats Student Kit has been sent in parts and needs to be assembled

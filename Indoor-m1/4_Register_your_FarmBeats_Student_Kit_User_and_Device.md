@@ -1,4 +1,4 @@
-Register your FarmBeats Student Kit User and Device
+Register your FarmBeats Student Kit with Microsoft Azure's IoT Service
 ===================================================
 
 To get your FarmBeats Student Kit devices connected to the cloud you need to

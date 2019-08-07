@@ -1,4 +1,4 @@
-Install the FarmBeats Sensor Application Software
+Install the FarmBeats Sensor Application Software on the Raspberry Pi
 -------------------------------------------------
 
 The sensor application is the piece of software that reads the values from the
