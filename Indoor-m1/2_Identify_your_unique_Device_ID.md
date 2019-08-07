@@ -47,8 +47,7 @@ Questions if you are having issues getting your device online.*
 -   **OPTION 2: Use the device that your ISP gave you. A DSL or cable modem.** – Plug one side of the ethernet cable into
     the Raspberry Pi and the other into an extra eternet port on the back of your DSL/cable modem. Most likely laptop is using WiFi via the DSL/cable modem. 
 
--   **OPTION 3: To connect with a Wi-Fi connection** – follow the steps later in this
-    document.
+-   **OPTION 3: Connect with Wi-Fi** – you will need a keyboard, mouse, and montior with an HDMI connection. [Instructions are here.](https://github.com/richstep/studentkit/blob/master/Indoor-m1/Mouse_Keyboard_Monitor.md)
 
 
 ## 4. Power on the Rasberry Pi device

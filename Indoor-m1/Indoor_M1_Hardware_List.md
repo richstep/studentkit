@@ -1,6 +1,9 @@
 FarmBeats Student Kit: Indoor M1 Hardware
 =========================================
 
+[--return to starting page--](https://github.com/richstep/studentkit/blob/master/Indoor-m1/readme.md)
+
+
 This is all the hardware that ships in the FarmBeats Student Kit: Indoor M1.
 
 ![](media/de940c9382f0be6875fbf6580ecc899b.jpg)
@@ -86,3 +89,6 @@ Supply](https://www.amazon.com/Charger-UROPHYLLA-Portable-compatible-Samsung/dp/
 ![](media/93866bdb50b72663b73554f8d04439f1.jpg)
 
 [Ethernet LAN Cable](https://www.amazon.com/gp/product/B01IQWGI04)
+
+[--return to starting page--](https://github.com/richstep/studentkit/blob/master/Indoor-m1/readme.md)
+

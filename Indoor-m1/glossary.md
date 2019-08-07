@@ -1,5 +1,8 @@
 Glossary
 ======================
+
+[--return to starting page--](https://github.com/richstep/studentkit/blob/master/Indoor-m1/readme.md)
+
 This glossary describes the components in the FarmBeats student kit, software tools, and defines some terminology used throughput the setup guide. 
 
 
@@ -74,3 +77,4 @@ The Internet Protocol (IP) address is a unique sequence of of numbers seperated 
 **IP Network**
 An Internet Protocol (IP) network is a communication network used to send and receive messages between one or more device, such as a computer or in your case, the FarmBeats student kit.
 
+[--return to starting page--](https://github.com/richstep/studentkit/blob/master/Indoor-m1/readme.md)
