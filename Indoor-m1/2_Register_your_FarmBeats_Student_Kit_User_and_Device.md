@@ -16,15 +16,7 @@ sites with.*
 Register your user at the FarmBeats Student Kit Portal
 ------------------------------------------------------
 
--   Please check the URL on the outside of the Student Kit or on the Getting
-    Started Guide and visit the portal using that URL.
-
-    -   If you have received your Student Kit from your school or other
-        educational organization then it’s likely that you would have a
-        customized registration process. E.g. <https://aka.ms/fbsk-schoolname>
-
-    -   If you have received your Student Kit independent of an educational
-        organization then just use the base URL of <https://aka.ms/fbsk>
+- In a web browser go to <https://aka.ms/fbsk>
 
 -   To login for the first time click either the Login or the Activate Your Kit
     button on the home page. Note: In the top right of the page it will show if
@@ -55,11 +47,7 @@ will create a MSA on top of your existing email address.*
     provided from your login account. Continue to fill in the remaining
     information.
 
--   If you are registered as part of an organization then you will need to also
-    fill out any information the might be customized specific to the
-    organization you are affiliated with.
 
-![](media/2af1dc580ba7df2412266bf30187d2a2.png)
 
 -   *Note: when you try to type the address in the address field it’s only going
     to accept from the nearest town and not to the exact address.*
@@ -107,15 +95,4 @@ us](mailto:support@farmbeatslabs.com) *to arrange.*
     Central application has been created and your device has been added to your
     cloud application. You can now proceed to [Step 3 – Configure your Azure IoT
     Cloud
-    Service](https://github.com/farmbeatslabs/studentkit/blob/master/Indoor-m1/3_Configure_your_Azure_IoT_Central_Cloud_Service.md)
-
-### Register a second device
-
--   If you have a second device to register you can do it here by pressing the
-    “Add Device” button.
-
-![](media/f1af29bc8a27778a52e7596337ccc223.png)
-
--   You will receive an email for every device you add.
-
-![](media/4ac2b44a24ea0f0381ca40ebfea83e8d.png)
+    Service](https://github.com/richstep/studentkit/blob/master/Indoor-m1/3_Configure_your_Azure_IoT_Central_Cloud_Service.md)

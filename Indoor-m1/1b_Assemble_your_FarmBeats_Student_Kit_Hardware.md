@@ -4,13 +4,14 @@ Assemble your FarmBeats Student Kit Hardware
 The FarmBeats Student Kit has been sent in parts and needs to be assembled
 before you can connect it to the internet or install the sensor software.
 
+
 Preparation
 -----------
 
 -   Gather the Raspberry Pi, sensors, sensor cable connecters, the Grove Base
     Hat and small bag of screws from the kit.
 
--   You will also need a small screwdriver that fits the screws.
+-   Optionally, you will need a small screwdriver that fits the screws.
 
 ![](media/07827c500685cce92f3e729cbab28c91.png)
 
@@ -23,7 +24,7 @@ Assembling your Student Kit
 
 ![](media/accd81a5b56cddbd26035a40a5be0c1d.png)
 
--   Screw in the supports on the side opposite the pins to stop the other side
+-   Optionally, screw in the supports on the side opposite the pins to stop the other side
     of the Grove Base Hat from collapsing onto the Raspberry Pi. This requires a
     small screwdriver.
 
@@ -57,4 +58,4 @@ Next Steps
 
 You have now assembled your FarmBeats Student Kit. You can now proceed to [Step
 1c – Identify your unique Device
-ID](https://github.com/farmbeatslabs/studentkit/blob/master/Indoor-m1/1c_Identify_your_unique_Device_ID.md)
+ID](https://github.com/richstep/studentkit/blob/master/Indoor-m1/1c_Identify_your_unique_Device_ID.md)
